@@ -1,0 +1,21 @@
+{
+  "name": "tmitestapp",
+  "version": "1.0.0",
+  "description": "tmi pkq test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "03h7",
+  "license": "ISC",
+  "dependencies": {
+    "@madelsberger/pausebuffer": "^1.2.0",
+    "atomic-sleep": "^1.0.0",
+    "dotenv": "^14.2.0",
+    "pg": "^8.7.1",
+    "tmi.js": "^1.8.5"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
